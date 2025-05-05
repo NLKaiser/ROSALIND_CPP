@@ -1,0 +1,7 @@
+# Ignore files
+*.exe
+*.obj
+*.o
+*.out
+*.log
+*.tmp
